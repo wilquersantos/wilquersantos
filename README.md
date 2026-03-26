@@ -25,8 +25,6 @@
 - 🏗️ Desenvolvimento de aplicações web e projetos SaaS
 - ⚡ Otimização de performance
 - 🧩 Código limpo e organização de projetos
-- 🔐 Criação de APIs seguras e autenticação
-- 💳 Lógicas de negócio (pagamentos e assinaturas)
 - 🤖 Automação e integrações
 - 📊 Dashboards e análise de dados
 - 🎓 Aprendizado contínuo em desenvolvimento
